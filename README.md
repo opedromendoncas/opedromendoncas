@@ -1,6 +1,6 @@
 <h1 align="center">Oi! 👋 Eu sou Pedro Mendonça</h1>
 <h2 align="center">Bem vindo ao meu perfil!</h2><br>
-<h3 align="left">Eu tenho 20 anos, moro em São Paulo/SP e sou um jovem iniciante no mundo da programação, apaixonado por tecnologias.  </h3><br>
+<h3 align="left">Eu tenho 21 anos, moro em São Paulo/SP e sou um jovem iniciante no mundo da programação, apaixonado por tecnologias.  </h3><br>
 
 
 <img align="right" height="150  " src = "https://miro.medium.com/max/1400/1*Vq0sQ79QIZV6V1R-t7qtmw.gif">
@@ -16,7 +16,6 @@
 <p align="left">
     <a href="https://www.instagram.com/opedromendoncas/" target="_blank"><img src="https://i.postimg.cc/N0fjZXLD/instagram.png" alt="Instagram" height="40" width="40"/></a> 
     <a href="https://www.linkedin.com/in/opedromendoncas/" target="_blank"><img src="https://i.postimg.cc/qRNMvdsC/linkedin.png" alt="Linkedin" height="40" width="40"/></a> 
-    <a href="https://twitter.com/opedromendoncas" target="_blank"><img src="https://i.postimg.cc/YSnC7SWH/twitter.png" alt="Twitter" height="40" width="40"/></a> 
 </p>
 
 <br>
